@@ -1,6 +1,6 @@
 # 🌻 Siddhant 🌻
 - 👋 Hi, I’m @SiddhantManze
-- 👀 I’m interested in Web Development / Machine Learning 
+- 👀 Max 3⭐ at Codechef / Max 970 at Codeforces / Competitive Coding 
 - 🌱 I’m currently learning Web Technologies
 - 💞️ I’m looking to collaborate with other open source project
 - ⚡ Fun fact: I love to play games and listen music.
